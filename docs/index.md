@@ -1,6 +1,6 @@
 # Product 
 
-Info about the product.
+This is a test, you whore.
 
 ## Commands
 
