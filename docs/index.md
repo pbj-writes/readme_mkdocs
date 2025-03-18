@@ -1,6 +1,6 @@
-# Product 
+# Product 1: Central Repo 
 
-This is a test, you whore.
+This is a test.
 
 ## Commands
 
