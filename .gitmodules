@@ -1,0 +1,3 @@
+[submodule "docs/subs/repo_1"]
+	path = docs/subs/repo_1
+	url = git@github.com:pbj-writes/repo_1.git
